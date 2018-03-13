@@ -1,0 +1,22 @@
+{
+  "name": "hadar-express",
+  "version": "1.0.0",
+  "description": "intro to express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydreammsp/hadar-express.git"
+  },
+  "author": "Jonathan Kruse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daydreammsp/hadar-express/issues"
+  },
+  "homepage": "https://github.com/daydreammsp/hadar-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
